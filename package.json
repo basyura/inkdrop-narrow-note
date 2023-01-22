@@ -10,6 +10,7 @@
     "inkdrop": "^4.x"
   },
   "dependencies": {
+    "jsmigemo": "^0.4.3",
     "semantic-ui-react": "0.88.2"
   }
 }
