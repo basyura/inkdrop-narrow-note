@@ -4,7 +4,7 @@
   "version": "0.3.0",
   "description": "Quickly switch between notes",
   "keywords": [],
-  "repository": "https://github.com/heathyboyj/inkdrop-switch-note",
+  "repository": "https://github.com/basyura/inkdrop-switch-note",
   "license": "MIT",
   "engines": {
     "inkdrop": "^4.x"
