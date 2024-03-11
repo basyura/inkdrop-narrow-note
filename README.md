@@ -1,3 +1,5 @@
-# switch-note
+# narrow-note
 
-This project is fork of https://github.com/heathyboyj/inkdrop-switch-note.
+This project's original is https://github.com/heathyboyj/inkdrop-switch-note.
+
+

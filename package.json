@@ -1,13 +1,13 @@
 {
-  "name": "switch-note",
-  "main": "./lib/switch-note",
-  "version": "0.3.0",
-  "description": "Quickly switch between notes",
+  "name": "narrow-note",
+  "main": "./lib/plugin",
+  "version": "0.1.0",
+  "description": "Quickly narrow down notes",
   "keywords": [],
-  "repository": "https://github.com/basyura/inkdrop-switch-note",
+  "repository": "https://github.com/basyura/inkdrop-narrow-note",
   "license": "MIT",
   "engines": {
-    "inkdrop": "^4.x"
+    "inkdrop": "^5.x"
   },
   "dependencies": {
     "jsmigemo": "^0.4.3",
