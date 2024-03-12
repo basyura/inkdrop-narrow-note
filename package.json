@@ -4,7 +4,7 @@
   "version": "0.2.0",
   "description": "Quickly narrow down notes",
   "keywords": [],
-  "repository": "https://github.com/basyura/inkdrop-narrow-note",
+  "repository": "git@github.com:basyura/inkdrop-narrow-note.git",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.x"
