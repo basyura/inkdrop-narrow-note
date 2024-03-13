@@ -27,9 +27,9 @@ ipm install narrow-note
 
 ## Settings
 
-| key            | default                     |
-| ---------------| ----------------------------|
-| migemoDictPath | migemo ditionary file path  |
+| key            | Explanation                                                |
+| ---------------| -----------------------------------------------------------|
+| migemoDictPath | migemo ditionary file path. ex)  C:/js/migemo-compact-dict |
 
 ## LICENSE
 
