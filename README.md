@@ -1,6 +1,6 @@
 # narrow-note
 
-Quickly narrow down notes.  
+Quickly narrow down and open note.  
 This project's original is https://github.com/heathyboyj/inkdrop-switch-note.
 
 ![Screenshot](https://raw.githubusercontent.com/basyura/inkdrop-narrow-note/master/images/image.png)
@@ -9,7 +9,7 @@ To use Migemo, set the file path of the dictionary.
 
 ![Screenshot](https://raw.githubusercontent.com/basyura/inkdrop-narrow-note/master/images/migemo.png)
 
-Multi word.
+Narrow down with multiple words.
 
 ![Screenshot](https://raw.githubusercontent.com/basyura/inkdrop-narrow-note/master/images/multi_word.png)
 
