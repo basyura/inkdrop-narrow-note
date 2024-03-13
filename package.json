@@ -1,7 +1,7 @@
 {
   "name": "narrow-note",
   "main": "./lib/plugin",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Quickly narrow down notes",
   "keywords": [],
   "repository": "git@github.com:basyura/inkdrop-narrow-note.git",
