@@ -9,6 +9,10 @@ To use Migemo, set the file path of the dictionary.
 
 ![Screenshot](https://raw.githubusercontent.com/basyura/inkdrop-narrow-note/master/images/migemo.png)
 
+Multi word.
+![Screenshot](https://raw.githubusercontent.com/basyura/inkdrop-narrow-note/master/images/multi_word.png)
+
+
 ## Install
 
 ```
