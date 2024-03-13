@@ -1,7 +1,6 @@
 # narrow-note
 
 Quickly narrow down and open note.  
-This project's original is https://github.com/heathyboyj/inkdrop-switch-note.
 
 ![Screenshot](https://raw.githubusercontent.com/basyura/inkdrop-narrow-note/master/images/image.png)
 
@@ -35,3 +34,7 @@ ipm install narrow-note
 ## LICENSE
 
 MIT
+
+## Thanks
+
+This project's original is https://github.com/heathyboyj/inkdrop-switch-note.
