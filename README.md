@@ -32,6 +32,14 @@ ipm install narrow-note
 | migemoDictPath       | migemo ditionary file path. ex)  C:/js/migemo-compact-dict |
 | defaultDisplayNumber | default display number                                     |
 
+## Maintenance Commands
+
+cmd.rebuild
+* "narrow-note" caches a list of notes for performance. It recreates the cache when a new note is created. Changing the name of a note does not recreate the cache. This is performed to recreate the cache in such cases.
+
+
+![Maintenance Commands ](https://raw.githubusercontent.com/basyura/inkdrop-narrow-note/master/images/maintenance_cmds.png)
+
 ## LICENSE
 
 MIT
