@@ -27,10 +27,11 @@ ipm install narrow-note
 
 ## Settings
 
-| key                  | Explanation                                                |
-| ---------------------| -----------------------------------------------------------|
-| migemoDictPath       | migemo ditionary file path. ex)  C:/js/migemo-compact-dict |
-| defaultDisplayNumber | default display number                                     |
+| key                  | default  | Explanation                                                |
+| ---------------------| -------- | -----------------------------------------------------------|
+| migemoDictPath       |          | migemo ditionary file path. ex)  C:/js/migemo-compact-dict |
+| defaultDisplayNumber | 10       | default display number                                     |
+| limit                | 2000     | The limit on the number of notes to be searched            |
 
 ## Maintenance Commands
 
