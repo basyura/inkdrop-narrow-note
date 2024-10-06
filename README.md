@@ -21,9 +21,10 @@ ipm install narrow-note
 
 ## Commands
 
-| Command          | Explanation        |
-| ---------------- | -------------------|
-| narrow-note:open | open note selector |
+| Command                    | Explanation        |
+| -------------------------- | -------------------|
+| narrow-note:open           | Open note selector |
+| narrow-note:openOnlyInBook | Open note selector with only notes from the editing note's book |
 
 ## Settings
 
