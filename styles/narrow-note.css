@@ -1,0 +1,56 @@
+.narrow-note-dialog {
+  margin-top: 80px !important;
+  align-self: flex-start;
+  background: none !important;
+}
+
+.narrow-note-dropdown {
+  width: 600px !important;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.narrow-note-search-input {
+  height: 38px;
+  width: 100%;
+  padding: 0 12px;
+}
+
+.narrow-note-menu {
+  max-height: var(--narrow-note-menu-height) !important;
+  overflow-y: auto;
+  background: var(--modal-background);
+  border-radius: 6px;
+}
+
+.narrow-note-item {
+  cursor: pointer;
+  padding: 8px 12px;
+}
+
+.narrow-note-item.active {
+  background: var(--note-list-view-item-active-background);
+}
+
+.narrow-note-item .custom-dropdown-item {
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.narrow-note-empty {
+  padding: 12px;
+  color: var(--muted-text-color);
+}
+
+.custom-dropdown-item span {
+  display: inline-block;
+}
+
+.custom-dropdown-item .description {
+  width: 100px;
+}
+
+.custom-dropdown-item .splitter {
+  width: 15px;
+}

@@ -7,7 +7,7 @@
   "repository": "git@github.com:basyura/inkdrop-narrow-note.git",
   "license": "MIT",
   "engines": {
-    "inkdrop": "^5.x"
+    "inkdrop": "^6.0.0"
   },
   "dependencies": {
     "jsmigemo": "^0.4.3",
