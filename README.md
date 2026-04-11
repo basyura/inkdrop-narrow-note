@@ -1,6 +1,7 @@
 # narrow-note
 
 Quickly narrow down and open note.  
+* https://my.inkdrop.app/plugins/narrow-note
 
 ![Screenshot](https://raw.githubusercontent.com/basyura/inkdrop-narrow-note/master/images/image.png)
 

@@ -1,10 +1,10 @@
 {
   "name": "narrow-note",
   "main": "./lib/plugin",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Quickly narrow down notes",
   "keywords": [],
-  "repository": "git@github.com:basyura/inkdrop-narrow-note.git",
+  "repository": "https://github.com/basyura/inkdrop-narrow-note",
   "license": "MIT",
   "engines": {
     "inkdrop": "^6.0.0"
