@@ -1,4 +1,5 @@
 .DS_Store
+.serena/cache
 npm-debug.log
 node_modules
 migemo-compact-dict
