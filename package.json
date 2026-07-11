@@ -1,7 +1,7 @@
 {
   "name": "narrow-note",
   "main": "./lib/plugin",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "Quickly narrow down notes",
   "scripts": {
     "test": "jest --runInBand"
