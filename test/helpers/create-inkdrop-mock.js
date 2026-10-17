@@ -39,9 +39,9 @@ export function createInkdropMock({
       dispatch,
     },
     components: {
-      classes: {
-        Dialog,
-      },
+      getComponentClass: jest.fn((name) =>
+        name === "Dialog" ? Dialog : undefined
+      ),
       registerClass: jest.fn(),
       deleteClass: jest.fn(),
     },
