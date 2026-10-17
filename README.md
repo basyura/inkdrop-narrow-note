@@ -43,6 +43,12 @@ cmd.rebuild
 
 ![Maintenance Commands ](https://raw.githubusercontent.com/basyura/inkdrop-narrow-note/master/images/maintenance_cmds.png)
 
+## Development
+
+Run `npm run typecheck` to check the JavaScript in `lib/` against the official Inkdrop API types. Type checking uses JSDoc annotations and does not emit build files. Strict mode is currently disabled for incremental adoption.
+
+Run `npm test` to execute the tests.
+
 ## LICENSE
 
 MIT
